@@ -1,0 +1,306 @@
+[
+    {
+        "id": 0,
+        "topic": {
+            "ru": "Глубокое понимание различий между React, Angular и Vue.js и умение объяснить их",
+            "en": "Deep understanding of the differences between React, Angular, and Vue.js and the ability to explain them"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 1,
+        "topic": {
+            "ru": "Умение проводить сравнение этих инструментов и объяснение их преимуществ и недостатков, а также определение их наиболее подходящих сценариев использования",
+            "en": "Ability to compare these tools and explain their advantages and disadvantages, as well as determine their most suitable use cases"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 2,
+        "topic": {
+            "ru": "Умение проектировать и разрабатывать сложные приложения, следуя передовым практикам и архитектурным принципам",
+            "en": "Ability to design and develop complex applications following best practices and architectural principles"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 3,
+        "topic": {
+            "ru": "Глубокое понимание серверного рендеринга - как это работает, какие возможности и ограничения, и как оно отличается от клиентского рендеринга",
+            "en": "Deep understanding of server-side rendering - how it works, its capabilities and limitations, and how it differs from client-side rendering"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 4,
+        "topic": {
+            "ru": "Продвинутое знание различий в браузерах и умение решать связанные проблемы совместимости",
+            "en": "Advanced knowledge of browser differences and the ability to solve related compatibility issues"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 5,
+        "topic": {
+            "ru": "Умение создавать и настраивать полноценное приложение React с использованием инструментов и библиотек, таких как TypeScript, Redux, React Router и других",
+            "en": "Ability to create and configure a full React application using tools and libraries such as TypeScript, Redux, React Router, and others"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 6,
+        "topic": {
+            "ru": "Умение интегрировать приложение с различными сервисами и API, такими как Firebase, AWS, GraphQL и другими",
+            "en": "Ability to integrate the application with various services and APIs such as Firebase, AWS, GraphQL, and others"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 7,
+        "topic": {
+            "ru": "Глубокое понимание принципов производительности и оптимизации веб-приложений, включая ленивую загрузку, код-сплиттинг, мемоизацию, кэширование и другие",
+            "en": "Deep understanding of performance principles and web application optimization, including lazy loading, code splitting, memoization, caching, and others"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 8,
+        "topic": {
+            "ru": "Умение настраивать и использовать различные инструменты развертывания и непрерывной интеграции/непрерывной доставки CI/CD",
+            "en": "Ability to configure and use various deployment and continuous integration/continuous delivery (CI/CD) tools"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 9,
+        "topic": {
+            "ru": "Умение работать с различными типами хранилищ данных, такими как базы данных, кэши, хранилища сессий и другие",
+            "en": "Ability to work with different types of data stores such as databases, caches, session stores, and others"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 10,
+        "topic": {
+            "ru": "Умение проводить тестирование и отладку приложений, включая юнит-тестирование, интеграционное тестирование и отладку производительности",
+            "en": "Ability to conduct testing and debugging of applications, including unit testing, integration testing, and performance debugging"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 11,
+        "topic": {
+            "ru": "Понимание принципов безопасности веб-приложений и умение реализовывать соответствующие меры защиты",
+            "en": "Understanding the principles of web application security and the ability to implement appropriate protection measures"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 12,
+        "topic": {
+            "ru": "Умение работать с различными форматами данных, такими как JSON, XML, CSV и другие",
+            "en": "Ability to work with various data formats such as JSON, XML, CSV, and others"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 13,
+        "topic": {
+            "ru": "Знание основ SEO и умение оптимизировать веб-приложение для поисковых систем React",
+            "en": "Knowledge of SEO basics and the ability to optimize React web applications for search engines"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 14,
+        "topic": {
+            "ru": "Умение создавать сложные пользовательские хуки, повышающие переиспользуемость и упрощающие логику компонентов",
+            "en": "Ability to create complex custom hooks that improve reusability and simplify component logic"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 15,
+        "topic": {
+            "ru": "Глубококое понимание работы виртуального DOM в React и умение оптимизировать его использование",
+            "en": "Deep understanding of how the virtual DOM works in React and the ability to optimize its usage"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 16,
+        "topic": {
+            "ru": "Умение проводить профилирование и оптимизацию производительности React-приложений, включая идентификацию и устранение узких мест",
+            "en": "Ability to profile and optimize performance in React applications, including identifying and resolving bottlenecks"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 17,
+        "topic": {
+            "ru": "Умение работать с анимациями в React, включая использование CSS-переходов и анимаций, библиотеки React Spring и других инструментов",
+            "en": "Ability to work with animations in React, including using CSS transitions and animations, React Spring library, and other tools"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 18,
+        "topic": {
+            "ru": "Глубокое понимание работы контекста React и умение использовать его для передачи данных и состояния между компонентами",
+            "en": "Deep understanding of how React context works and the ability to use it to pass data and state between components"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 19,
+        "topic": {
+            "ru": "Умение работать с формами и управляемыми компонентами в React, включая валидацию, обработку событий и отправку данных на сервер",
+            "en": "Ability to work with forms and controlled components in React, including validation, event handling, and sending data to the server"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 20,
+        "topic": {
+            "ru": "Знание и использование расширенных функций роутинга в React, таких как динамические маршруты, защита маршрутов и другие",
+            "en": "Knowledge and use of advanced routing features in React, such as dynamic routes, route protection, and others"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 21,
+        "topic": {
+            "ru": "Умение работать с серверным API и асинхронными запросами, включая обработку ошибок, аутентификацию и авторизацию",
+            "en": "Ability to work with server-side APIs and asynchronous requests, including error handling, authentication, and authorization"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 22,
+        "topic": {
+            "ru": "Знание и использование паттернов проектирования в React, таких как контейнеры и презентационные компоненты, компоненты высшего порядка и другие",
+            "en": "Knowledge and use of design patterns in React, such as container and presentational components, higher-order components, and others"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 23,
+        "topic": {
+            "ru": "Умение интегрировать и использовать различные библиотеки и инструменты в экосистеме React, такие как Redux, MobX, Axios, React Query и другие",
+            "en": "Ability to integrate and use various libraries and tools in the React ecosystem, such as Redux, MobX, Axios, React Query, and others"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 24,
+        "topic": {
+            "ru": "Глубокое понимание принципов тестирования React-приложений, включая написание юнит-тестов, компонентных тестов и интеграционных тестов с использованием библиотеки Testing Library или других",
+            "en": "Deep understanding of testing principles for React applications, including writing unit tests, component tests, and integration tests using Testing Library or other tools"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 25,
+        "topic": {
+            "ru": "Умение разрабатывать и использовать компоненты высшего порядка, рендер-пропы и другие продвинутые техники компонентизации в React",
+            "en": "Ability to develop and use higher-order components, render props, and other advanced componentization techniques in React"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 26,
+        "topic": {
+            "ru": "Знание и использование локализации и интернационализации в React-приложениях с помощью библиотеки react-intl или других инструментов",
+            "en": "Knowledge and use of localization and internationalization in React applications using react-intl or other tools"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 27,
+        "topic": {
+            "ru": "Понимание и использование лучших практик и принципов разработки React-приложений, таких как разделение ответственности, модульность, чистота кода и другие",
+            "en": "Understanding and using best practices and principles for React application development, such as separation of concerns, modularity, code cleanliness, and others"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 28,
+        "topic": {
+            "ru": "Умение работать с реактивным программированием и функциональными концепциями в React с использованием библиотеки RxJS или других инструментов",
+            "en": "Ability to work with reactive programming and functional concepts in React using RxJS or other tools"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 29,
+        "topic": {
+            "ru": "Глубокое понимание паттернов управления состоянием в React, таких как Redux, MobX, Zustand и другие, и умение выбирать наиболее подходящий паттерн в зависимости от требований проекта",
+            "en": "Deep understanding of state management patterns in React, such as Redux, MobX, Zustand, and others, and ability to choose the most suitable pattern based on project requirements"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 30,
+        "topic": {
+            "ru": "Умение работать с GraphQL и использовать его для эффективного получения и обновления данных в React-приложениях",
+            "en": "Ability to work with GraphQL and use it for efficient data fetching and updates in React applications"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 31,
+        "topic": {
+            "ru": "Знание и использование техник аутентификации и авторизации в React-приложениях, включая JWT, OAuth, ролевую модель и другие",
+            "en": "Knowledge and use of authentication and authorization techniques in React applications, including JWT, OAuth, role-based models, and others"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 32,
+        "topic": {
+            "ru": "Умение работать с WebSocket-соединениями и реализовывать реальное время обновления данных в React-приложениях с помощью библиотеки Socket.io или других инструментов",
+            "en": "Ability to work with WebSocket connections and implement real-time data updates in React applications using Socket.io or other tools"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 33,
+        "topic": {
+            "ru": "Понимание и использование принципов функционального программирования в React, таких как неизменяемость данных, чистые функции и композиция",
+            "en": "Understanding and using functional programming principles in React, such as immutability, pure functions, and composition"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 34,
+        "topic": {
+            "ru": "Умение проводить рефакторинг кода React-приложений с целью повышения его читаемости, модульности и производительности",
+            "en": "Ability to refactor React application code to improve readability, modularity, and performance"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 35,
+        "topic": {
+            "ru": "Глубокое понимание принципов и инструментов тестирования производительности React-приложений, включая использование профайлеров и мониторов производительности",
+            "en": "Deep understanding of performance testing principles and tools for React applications, including using profilers and performance monitors"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 36,
+        "topic": {
+            "ru": "Умение работать с мобильной разработкой на базе React Native и создавать переносимые мобильные приложения",
+            "en": "Ability to work with mobile development based on React Native and create portable mobile applications"
+        },
+        "grade": "senior"
+    },
+    {
+        "id": 37,
+        "topic": {
+            "ru": "Знание и использование инструментов и практик для оптимизации и улучшения доступности React-приложений, таких как aria-атрибуты, фокус-менеджмент и другие",
+            "en": "Knowledge and use of tools and practices for optimizing and improving accessibility in React applications, such as aria-attributes, focus management, and others"
+        },
+        "grade": "senior"
+    }
+]

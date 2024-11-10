@@ -1,0 +1,242 @@
+[
+    {
+        "id": 0,
+        "topic": {
+            "ru": "Понимает основные отличия между React, Angular и Vue.js и может объяснить их",
+            "en": "Understands the main differences between React, Angular, and Vue.js and can explain them"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 1,
+        "topic": {
+            "ru": "Умеет сравнивать эти инструменты и объяснить их преимущества и недостатки, а также в каких случаях они наиболее полезны",
+            "en": "Can compare these tools and explain their pros and cons, as well as when they are most useful"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 2,
+        "topic": {
+            "ru": "Понимание серверного рендеринга - как это работает и в чем отличие от клиентского рендеринга",
+            "en": "Understands server-side rendering - how it works and how it differs from client-side rendering"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 3,
+        "topic": {
+            "ru": "Промежуточные знания различий в браузерах",
+            "en": "Intermediate knowledge of browser differences"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 4,
+        "topic": {
+            "ru": "Умеет создавать простое приложение React (начиная с create-react-app или Next.js), которое имеет следующие функции: jsx, css-модули, sass, библиотека пользовательского интерфейса, gql, линтер, prettier",
+            "en": "Can create a simple React application (starting from create-react-app or Next.js) that includes the following features: jsx, css modules, sass, UI library, gql, linter, prettier"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 5,
+        "topic": {
+            "ru": "Интеграция с Sentry, то есть ошибки отслеживаются и отслеживаются в экземпляре Sentry",
+            "en": "Integration with Sentry, meaning errors are tracked and monitored in a Sentry instance"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 6,
+        "topic": {
+            "ru": "Умеет настраивать простую CI/CD-процедуру",
+            "en": "Can set up a basic CI/CD procedure"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 7,
+        "topic": {
+            "ru": "Базовое знание веб-интерфейсов (локальное/сеансовое хранилище, веб/сервисные работники, ws, API уведомлений)",
+            "en": "Basic knowledge of web interfaces (local/session storage, web/service workers, ws, notifications API)"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 8,
+        "topic": {
+            "ru": "Понимает, что такое CORS, какая цель у него и как исправлять проблемы с CORS при работе с Frontend",
+            "en": "Understands what CORS is, its purpose, and how to fix CORS issues when working with Frontend"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 9,
+        "topic": {
+            "ru": "Знает структуру package.json и что можно сделать в этом файле",
+            "en": "Knows the structure of package.json and what can be done in this file"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 10,
+        "topic": {
+            "ru": "Знает, какие файлы, связанные с менеджерами пакетов, нужно коммитить, а какие нет",
+            "en": "Knows which package manager-related files should be committed and which should not"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 11,
+        "topic": {
+            "ru": "Умеет использовать клиент GraphQL в своем проекте, понимает преимущества использования клиента",
+            "en": "Can use a GraphQL client in their project, understands the advantages of using a client"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 12,
+        "topic": {
+            "ru": "Знает, как обрабатывать интернационализацию с помощью широко используемой библиотеки i18n",
+            "en": "Knows how to handle internationalization using a widely-used i18n library"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 13,
+        "topic": {
+            "ru": "Знает, что такое бесголовая (headless) система управления контентом (CMS) и имеет опыт работы с некоторыми бесголовыми CMS",
+            "en": "Knows what a headless CMS is and has experience working with some headless CMS"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 14,
+        "topic": {
+            "ru": "Next.js: Понимает основные концепции фреймворка и его преимущества",
+            "en": "Next.js: Understands the main concepts of the framework and its advantages"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 15,
+        "topic": {
+            "ru": "Next.js: Знает о различных 'HTML-элементах' Next.js и добавленной ими ценности",
+            "en": "Next.js: Knows about various 'HTML elements' of Next.js and the value they add"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 16,
+        "topic": {
+            "ru": "Next.js: Понимает и может сравнивать различные режимы рендеринга страниц (CSR, SSR, SSG, ISSG)",
+            "en": "Next.js: Understands and can compare different page rendering modes (CSR, SSR, SSG, ISSG)"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 17,
+        "topic": {
+            "ru": "Может писать более сложные тесты Jest, мокируя зависимости для тестируемого кода",
+            "en": "Can write more complex Jest tests, mocking dependencies for the tested code"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 18,
+        "topic": {
+            "ru": "Знаком с принципами SOLID программирования, может демонстрировать их использование в своем собственном коде",
+            "en": "Familiar with SOLID programming principles, can demonstrate their use in own code"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 19,
+        "topic": {
+            "ru": "Понимает основы Docker и может создать простое контейнеризованное приложение React",
+            "en": "Understands Docker basics and can create a simple containerized React app"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 20,
+        "topic": {
+            "ru": "Подробно понимает хук useEffect",
+            "en": "Has a detailed understanding of the useEffect hook"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 21,
+        "topic": {
+            "ru": "Может создавать пользовательские хуки и знает, когда это необходимо",
+            "en": "Can create custom hooks and knows when this is necessary"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 22,
+        "topic": {
+            "ru": "Умеет диагностировать и исправлять распространенные проблемы производительности (отсутствие ключей, бесконечные циклы)",
+            "en": "Can diagnose and fix common performance issues (missing keys, infinite loops)"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 23,
+        "topic": {
+            "ru": "Умеет базовую оптимизацию производительности (useCallback, useMemo, memo и т. д.)",
+            "en": "Can perform basic performance optimization (useCallback, useMemo, memo, etc.)"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 24,
+        "topic": {
+            "ru": "Умеет создавать и использовать компоненты высшего порядка и знает, когда они могут быть полезны",
+            "en": "Can create and use higher-order components and knows when they might be useful"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 25,
+        "topic": {
+            "ru": "Глубокое понимание контекста React (+ когда его использовать и когда не использовать)",
+            "en": "Deep understanding of React context (+ when to use it and when not to)"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 26,
+        "topic": {
+            "ru": "Понимает и может объяснить концепцию односторонней привязки данных в React",
+            "en": "Understands and can explain the concept of one-way data binding in React"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 27,
+        "topic": {
+            "ru": "Знает, что такое граница ошибок (error boundary), какую цель она служит и как ее создать. Также знает ограничения по обработке ошибок",
+            "en": "Knows what an error boundary is, its purpose, how to create one, and the limitations in error handling"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 28,
+        "topic": {
+            "ru": "Понимает концепцию неизменяемости данных, как она используется в React и почему это важно",
+            "en": "Understands the concept of immutability, how it is used in React, and why it is important"
+        },
+        "grade": "middle"
+    },
+    {
+        "id": 29,
+        "topic": {
+            "ru": "Может создавать интеграционные тесты для своих компонентов, используя react-testing-library",
+            "en": "Can create integration tests for their components using react-testing-library"
+        },
+        "grade": "middle"
+    }
+]

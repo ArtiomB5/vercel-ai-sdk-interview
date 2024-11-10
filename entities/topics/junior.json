@@ -1,0 +1,178 @@
+[
+    {
+        "id": 0,
+        "topic": {
+            "ru": "Знает, для чего используются сборщики (bundlers) и знает основы хотя бы одного сборщика (например, Webpack, Parcel, Vite)",
+            "en": "Knows what bundlers are used for and understands the basics of at least one bundler (e.g., Webpack, Parcel, Vite)"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 1,
+        "topic": {
+            "ru": "Понимает настройку Webpack, используемую в их проекте",
+            "en": "Understands the Webpack configuration used in their project"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 2,
+        "topic": {
+            "ru": "Знает, что такое LoDash и как правильно импортировать его утилиты, когда это необходимо",
+            "en": "Knows what LoDash is and how to correctly import its utilities when necessary"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 3,
+        "topic": {
+            "ru": "Понимает, когда следует использовать библиотеку, а не изобретать велосипед. Может привести пример из своей работы",
+            "en": "Understands when to use a library instead of reinventing the wheel. Can give an example from their work"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 4,
+        "topic": {
+            "ru": "Умеет выбирать хорошую библиотеку при поиске",
+            "en": "Can choose a good library when searching"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 5,
+        "topic": {
+            "ru": "Умеет создавать и использовать простые моки (фиктивные данные), когда Backend еще не реализован",
+            "en": "Can create and use simple mocks (dummy data) when the backend is not yet implemented"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 6,
+        "topic": {
+            "ru": "Базовое понимание различий в браузерах",
+            "en": "Basic understanding of browser differences"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 7,
+        "topic": {
+            "ru": "Базовое понимание доступности веб-сайтов",
+            "en": "Basic understanding of website accessibility"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 8,
+        "topic": {
+            "ru": "Умеет работать с библиотекой для форм (например, react-hook-form или formik)",
+            "en": "Can work with a forms library (e.g., react-hook-form or formik)"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 9,
+        "topic": {
+            "ru": "Знает, что такое менеджеры пакетов (например, npm или yarn) и чем они занимаются",
+            "en": "Knows what package managers (e.g., npm or yarn) are and what they do"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 10,
+        "topic": {
+            "ru": "Знает разницу между dependencies и devDependencies в package.json",
+            "en": "Knows the difference between dependencies and devDependencies in package.json"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 11,
+        "topic": {
+            "ru": "Может написать простые тесты с использованием Jest для проверки своего кода",
+            "en": "Can write simple tests with Jest to check their code"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 12,
+        "topic": {
+            "ru": "Знает о принципе DRY (Don't Repeat Yourself) и может привести пример его использования в React",
+            "en": "Knows the DRY (Don't Repeat Yourself) principle and can give an example of its use in React"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 13,
+        "topic": {
+            "ru": "Понимает и умеет использовать распространенные хуки",
+            "en": "Understands and can use common hooks"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 14,
+        "topic": {
+            "ru": "Понимает и умеет использовать систему управления состоянием, используемую в их проекте JS/TS",
+            "en": "Understands and can use the state management system used in their JS/TS project"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 15,
+        "topic": {
+            "ru": "Понимает асинхронные механизмы в JavaScript и их различия",
+            "en": "Understands asynchronous mechanisms in JavaScript and their differences"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 16,
+        "topic": {
+            "ru": "Умеет использовать типы для своих компонентов React",
+            "en": "Can use types for their React components"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 17,
+        "topic": {
+            "ru": "Знает и использует основные возможности ES6+",
+            "en": "Knows and uses the main ES6+ features"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 18,
+        "topic": {
+            "ru": "Знает, как работают модули в JavaScript",
+            "en": "Knows how modules work in JavaScript"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 19,
+        "topic": {
+            "ru": "Понимает и использует основные концепции TypeScript",
+            "en": "Understands and uses the main concepts of TypeScript"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 20,
+        "topic": {
+            "ru": "Умеет использовать базовые инструменты отладки",
+            "en": "Can use basic debugging tools"
+        },
+        "grade": "junior"
+    },
+    {
+        "id": 21,
+        "topic": {
+            "ru": "Может объяснить разницу между эквивалентностью по ссылке и эквивалентностью по значению",
+            "en": "Can explain the difference between reference equality and value equality"
+        },
+        "grade": "junior"
+    }
+]
